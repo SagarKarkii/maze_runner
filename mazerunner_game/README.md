@@ -1,4 +1,4 @@
-# ICT221_SaveKoalas
+# maze_runner
 
 Starting code for SaveKoalas game.
 
